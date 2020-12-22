@@ -99,7 +99,7 @@ def start_n_gram():
         if count_fr > count_de:
             print('Текст ' + name + ' на французском')
         else:
-            print('Текст ' + name + ' на немецком')
+            print('Текст ' + name + ' на английском')
         i += 1
     print('\n')
 
@@ -136,7 +136,7 @@ def start_al():
         if count_fr > count_de:
             print('Текст ' + name + ' на французском')
         else:
-            print('Текст ' + name + ' на немецком')
+            print('Текст ' + name + ' на английском')
         d += 1
     print('\n')
 
@@ -174,7 +174,7 @@ def start_s_w():
         if count_fr > count_de:
             print('Текст ' + name + ' на французском')
         else:
-            print('Текст ' + name + ' на немецком')
+            print('Текст ' + name + ' на английском')
         d += 1
 
 
